@@ -72,6 +72,7 @@ for (j = 0; j <n2; j ++) {
      }
     }xx(this);
      checkFun();
+     find();
      robot();
    }
 }
@@ -91,7 +92,6 @@ function xx(cell){
 }
 function robot()
 {
-find();
 var n1 =tab.rows.length;
 var xxx = 0, yyy = 0;
 var max=-10000;
