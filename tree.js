@@ -52,7 +52,7 @@ for (j = 0; j <n2; j ++) {
   var n2 = tab.rows [b] .cells.length;
   for (g = 0; g <n2;g++) {
    tab.rows[b].cells.item(g).innerHTML="";
-   tab.rows[b].cells.item(g).color=0;
+   tab.rows[b].cells.item(g).Color=0;
   }
 }},500)}
 var n1 =tab.rows.length;
