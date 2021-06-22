@@ -105,7 +105,7 @@ for (yyy = 0;yyy <n2; yyy++) {
  }
 }
 }
-if(max<0){cn();}
+if(max<0){find();cn()}
 oo(tab.rows[maxx].cells.item(maxy));
 find();
 }
