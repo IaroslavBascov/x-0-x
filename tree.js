@@ -104,9 +104,9 @@ for (yyy = 0;yyy <n2; yyy++) {
   max=genome[xxx*3+yyy]*tab.rows[xxx].cells.item(yyy).Color;maxx=xxx;maxy=yyy;
  }
 }
-find();
 }
 oo(tab.rows[maxx].cells.item(maxy));
+find();
 }
 checkFun ();
 function cr(){
