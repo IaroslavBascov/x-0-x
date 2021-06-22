@@ -179,9 +179,9 @@ for (yy = 0;yy <n2; yy++)
   }
  }
  if(n==3){
-  cr();}
- if(m==3){
   cn();}
+ if(m==3){
+  cr();}
 var n2 =tab.rows [0] .cells.length;
 var n=0;
 var m=0;
