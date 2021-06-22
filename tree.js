@@ -72,8 +72,8 @@ for (j = 0; j <n2; j ++) {
      }
     }xx(this);
      checkFun();
-     find();
      robot();
+     find();
    }
 }
 }
